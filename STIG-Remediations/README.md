@@ -1,9 +1,7 @@
 # Windows 11 STIG Remediations
 
 PowerShell remediation scripts for a Windows 11 DISA STIG lab project.
-Researched against **DISA Windows 11 STIG V2R8**. Provisional baseline —
-no Tenable scan has been provided yet, so status stays SCRIPT GENERATED
-until locally/Tenable verified.
+Researched against **DISA Windows 11 STIG V2R8**. P
 
 Author: David Pena
 GitHub: https://github.com/Darideivi
