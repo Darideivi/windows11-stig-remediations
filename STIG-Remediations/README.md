@@ -19,12 +19,6 @@ GitHub: https://github.com/Darideivi
 | WN11-CC-000326 | Enable PowerShell Script Block Logging | CAT II | [STIG-ID-WN11-CC-000326.ps1](STIG-ID-WN11-CC-000326.ps1) | SCRIPT GENERATED |
 | WN11-CC-000066 | Include command line data in process creation events | CAT II | [STIG-ID-WN11-CC-000066.ps1](STIG-ID-WN11-CC-000066.ps1) | SCRIPT GENERATED |
 
-## Status legend
-
-- **RESEARCHED** — requirement understood, no script yet
-- **SCRIPT GENERATED** — PowerShell remediation written, not yet verified
-- **LOCALLY VERIFIED** — run on a test VM and confirmed compliant
-- **TENABLE VERIFIED** — confirmed PASS by an actual Tenable scan
 
 ## Usage
 
