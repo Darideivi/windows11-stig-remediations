@@ -15,10 +15,10 @@
     Documentation   : https://stigaview.com/products/win11/v2r8/WN11-CC-000326/
 
 .TESTED ON
-    Date(s) Tested  :
-    Tested By       :
-    Systems Tested  :
-    PowerShell Ver. :
+    Date(s) Tested  : 2026-09-09
+    Tested By       : David Pena
+    Systems Tested  : Windows 11 Enterprise 23H2
+    PowerShell Ver. : 5.1
 
 .USAGE
     Run PowerShell as Administrator.
